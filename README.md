@@ -1,7 +1,7 @@
 ﻿# Kotlin-Pie-Socket
 
 
-![kl](https://user-images.githubusercontent.com/89164849/191952070-8446db8b-dd82-4922-900a-906c6a168f04.png)
+![lo](https://user-images.githubusercontent.com/89164849/192088571-fab1598c-cc03-4916-84fc-84a1f1fa82eb.png)
 
 
  <img src="https://avatars.githubusercontent.com/u/89164849?v=4" width="70" align="left">
